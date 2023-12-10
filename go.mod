@@ -6,3 +6,4 @@ require github.com/gofrs/uuid v3.3.0+incompatible
 require github.com/qiniu/api.v7/v7 v7.4.1
 require github.com/open-policy-agent/opa v0.42.2
 github.com/klauspost/compress v1.11.0
+github.com/libp2p/go-libp2p-testing@v0.4.0	
